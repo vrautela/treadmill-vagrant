@@ -1,0 +1,5 @@
+recursive-include lib/python/treadmill_vagrant/bootstrap/node/vagrant.linux *
+recursive-include lib/python/treadmill_vagrant/bootstrap/master/vagrant.linux *
+recursive-include lib/python/treadmill_vagrant/bootstrap/zookeeper/vagrant.linux *
+recursive-include lib/python/treadmill_vagrant/bootstrap/openldap/vagrant.linux *
+recursive-include lib/python/treadmill_vagrant/logging *
